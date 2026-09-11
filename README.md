@@ -130,7 +130,7 @@ The risk analysis helps highlight employees based on multiple attrition-related 
 ## 🖼️ Dashboard Preview
 
 ### Overview
-![Overview](./screenshots/overview.png)
+![Overview](./overview.png)
 
 ### Drivers of Attrition
 ![Drivers](./screenshots/drivers.png)
