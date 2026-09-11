@@ -63,6 +63,8 @@ hr-analytics-attrition-dashboard/
     ├── demographics.png
     └── watchlist.png
 
+---
+---
 ## 📈 Power BI Dashboard
 
 The Power BI dashboard contains four main pages.
