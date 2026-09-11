@@ -133,13 +133,14 @@ The risk analysis helps highlight employees based on multiple attrition-related 
 ![Overview](./overview.png)
 
 ### Drivers of Attrition
-![Drivers](./screenshots/drivers.png)
+![Drivers](./drivers.png)
 
 ### Demographics
-![Demographics](./screenshots/demographics.png)
+![Demographics](./demographics.png)
 
 ### Retention Risk Watchlist
-![Watchlist](./screenshots/watchlist.png)
+![Watchlist](./watchlist.png)
+
 ---
 
 ## 🔍 SQL Analysis
