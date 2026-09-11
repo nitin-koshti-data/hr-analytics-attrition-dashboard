@@ -62,8 +62,7 @@ hr-analytics-attrition-dashboard/
     ├── drivers.png
     ├── demographics.png
     └── watchlist.png
-
----
+```
 ---
 ## 📈 Power BI Dashboard
 
